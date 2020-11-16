@@ -1,5 +1,4 @@
 <h1 align="center">Heloo, I am Shivani! </h1>
-<h1 align="center">(You can call me <i>shivs</i>)</h1>
 
 ### Learning
 Machine Learning | Mobile Development  |  Competitive Programming |  Blockchain Development
