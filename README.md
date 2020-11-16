@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Heloo, I am Shivani! </h1>
+<h1 align="center">(You can call me <i>shivs</i>)</h1>
 
-<!--
-**shivanipawar00/shivanipawar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learning
+Machine Learning | Mobile Development  |  Competitive Programming |  Blockchain Development
 
-Here are some ideas to get you started:
+- **Languages**: C++  |  Python  |  JavaScript |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <span align="left">
+    <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=shivanipawar00&show_icons=true" alt="Akshat's Github Stats">
+    </a>
+  </span>
+  <span align="right">                                                                                                                  
+    <a align="right" href="href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanipawar00&layout=compac&show_icons=true" alt="Akshat's Top Languages">
+    </a>
+  </span>
+</div>
